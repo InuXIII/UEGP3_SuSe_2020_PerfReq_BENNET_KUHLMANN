@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Hashihime\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Hashihime\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_UEGP3_SuSe_2020_PerfReq_BENNET_KUHLMANN.1820242620.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Hashihime\Desktop\git_PR\UEGP3_SuSe_2020_PerfReq_BENNET_KUHLMANN" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="NewBehaviourScript.cs" t="Include" />
+        <e p="UEGP3PR" t="Include">
+          <e p="Code" t="Include">
+            <e p="Editor" t="Include">
+              <e p="Turnbased" t="Include">
+                <e p="Settings" t="Include">
+                  <e p="GridEditor.cs" t="Include" />
+                  <e p="SearchBaseEditor.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Runtime" t="Include">
+              <e p="Core" t="Include">
+                <e p="ScriptableSingleton.cs" t="Include" />
+              </e>
+              <e p="Turnbased" t="Include">
+                <e p="Grid.cs" t="Include" />
+                <e p="GridNode.cs" t="Include" />
+                <e p="GridNodeSearchState.cs" t="Include" />
+                <e p="GridNodeType.cs" t="Include" />
+                <e p="Marker.cs" t="Include" />
+                <e p="SearchBase.cs" t="Include" />
+                <e p="SearchScripts" t="Include">
+                  <e p="AStarSearch.cs" t="Include" />
+                  <e p="DijkstraSearch.cs" t="Include" />
+                </e>
+                <e p="SearchSettingsScript.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="UEGP3_SuSe_2020_PerfReq_BENNET_KUHLMANN.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
