@@ -13,7 +13,7 @@ namespace UEGP3PR.Code.Runtime.Turnbased
 		private Vector3 _offset;
 		public GridNode ClosestGridNode => _closestGridNode;
 
-		private void Start()
+		private void Awake()
 		{
 			SetToClosestGridNode();		
 		}

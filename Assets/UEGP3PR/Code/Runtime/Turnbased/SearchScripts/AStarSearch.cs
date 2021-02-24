@@ -7,9 +7,6 @@ namespace UEGP3PR.Code.Runtime.Turnbased.SearchScripts
     {
         protected override void InitializeSearch()
         {
-            _startNode = _startMarker.ClosestGridNode;
-            _goalNode = _endMarker.ClosestGridNode;
-
             foreach (GridNode gridNode in _visited.Keys)
             {
                 gridNode.Reset();

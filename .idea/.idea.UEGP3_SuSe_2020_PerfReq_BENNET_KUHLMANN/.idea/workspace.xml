@@ -10,11 +10,38 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/UEGP3PR/Code/Runtime/Turnbased/WayPointMarker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UEGP3PR/Code/Runtime/Turnbased/Grid.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UEGP3PR/Code/Runtime/Turnbased/SearchSettingsScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UEGP3PR/Code/Runtime/Turnbased/EnemyStates.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UEGP3PR/Code/Runtime/Turnbased/GridNodeSearchState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UEGP3PR/Code/Runtime/Turnbased/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UEGP3PR/Code/Runtime/Core/ScriptableSingleton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UEGP3PR/Code/Runtime/Turnbased/GridNode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UEGP3PR/Code/Runtime/Turnbased/GridNodeType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UEGP3PR/Code/Runtime/Turnbased/Player.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/UEGP3PR/Code/Runtime/Turnbased/Grid.cs" />
       <option value="$PROJECT_DIR$/Assets/UEGP3PR/Code/Runtime/Turnbased/GridNode.cs" />
       <option value="$PROJECT_DIR$/Assets/UEGP3PR/Code/Runtime/Core/ScriptableSingleton.cs" />
+      <option value="$PROJECT_DIR$/Assets/UEGP3PR/Code/Runtime/Turnbased/Player.cs" />
+      <option value="$PROJECT_DIR$/Assets/UEGP3PR/Code/Runtime/Turnbased/SearchScripts/AStarSearch.cs" />
+      <option value="$PROJECT_DIR$/Assets/UEGP3PR/Code/Runtime/Turnbased/Marker.cs" />
+      <option value="$PROJECT_DIR$/Assets/UEGP3PR/Code/Runtime/Turnbased/SearchBase.cs" />
+      <option value="$PROJECT_DIR$/Assets/UEGP3PR/Code/Runtime/Turnbased/EnemyStates.cs" />
+      <option value="$PROJECT_DIR$/Assets/UEGP3PR/Code/Runtime/Turnbased/WayPointMarker.cs" />
+      <option value="$PROJECT_DIR$/Assets/UEGP3PR/Code/Runtime/Turnbased/Enemy.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1onpJo69du1SMCsO0M4OFRXFdvb" />
@@ -27,6 +54,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -61,6 +94,7 @@
       <workItem from="1613932154349" duration="16000" />
       <workItem from="1613932251090" duration="716000" />
       <workItem from="1613936107883" duration="223000" />
+      <workItem from="1614187528972" duration="10205000" />
     </task>
     <servers />
   </component>

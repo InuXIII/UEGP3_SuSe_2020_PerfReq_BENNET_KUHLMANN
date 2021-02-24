@@ -14,7 +14,6 @@
               <e p="Turnbased" t="Include">
                 <e p="Settings" t="Include">
                   <e p="GridEditor.cs" t="Include" />
-                  <e p="SearchBaseEditor.cs" t="Include" />
                 </e>
               </e>
             </e>
@@ -23,17 +22,20 @@
                 <e p="ScriptableSingleton.cs" t="Include" />
               </e>
               <e p="Turnbased" t="Include">
+                <e p="Enemy.cs" t="Include" />
+                <e p="EnemyStates.cs" t="Include" />
                 <e p="Grid.cs" t="Include" />
                 <e p="GridNode.cs" t="Include" />
                 <e p="GridNodeSearchState.cs" t="Include" />
                 <e p="GridNodeType.cs" t="Include" />
                 <e p="Marker.cs" t="Include" />
+                <e p="Player.cs" t="Include" />
                 <e p="SearchBase.cs" t="Include" />
                 <e p="SearchScripts" t="Include">
                   <e p="AStarSearch.cs" t="Include" />
-                  <e p="DijkstraSearch.cs" t="Include" />
                 </e>
                 <e p="SearchSettingsScript.cs" t="Include" />
+                <e p="WayPointMarker.cs" t="Include" />
               </e>
             </e>
           </e>

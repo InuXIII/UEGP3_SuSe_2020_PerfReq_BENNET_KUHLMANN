@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3178764c56834b5cb5299ecd5d7d6d66, type: 3}
   m_Name: SearchSettingsScript
   m_EditorClassIdentifier: 
-  _noneNodeColor: {r: 0, g: 0, b: 0, a: 1}
-  _queueNodeColor: {r: 0, g: 0, b: 0, a: 0}
-  _processedNodeColor: {r: 0, g: 0, b: 0, a: 0}
-  _pathNodeColor: {r: 0, g: 0, b: 0, a: 0}
-  _groundNodeColor: {r: 0, g: 0, b: 0, a: 0}
-  _wallNodeColor: {r: 0, g: 0, b: 0, a: 0}
-  _waterNodeColor: {r: 0, g: 0, b: 0, a: 0}
+  _noneNodeColor: {r: 0, g: 0, b: 0, a: 0}
+  _queueNodeColor: {r: 0.8962264, g: 0.3682879, b: 0, a: 1}
+  _processedNodeColor: {r: 0.5566038, g: 0, b: 0, a: 1}
+  _pathNodeColor: {r: 0.21867082, g: 0.8113208, b: 0.003826994, a: 1}
+  _groundNodeColor: {r: 0.46226418, g: 0.22134647, b: 0.13300997, a: 1}
+  _wallNodeColor: {r: 0.3773585, g: 0.3773585, b: 0.3773585, a: 1}
+  _waterNodeColor: {r: 0, g: 0.5451279, b: 0.7169812, a: 1}
   _waterNodeCost: 0
